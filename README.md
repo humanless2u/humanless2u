@@ -1,0 +1,4 @@
+- 👋 Hi, I’m David aka @humanless2u
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently study DevOps engineer
+- 📫 Reach me on email: humanless2u@protomail.com
