@@ -1,4 +1,4 @@
-- 👋 Hi, I’m David aka @humanless2u
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently study DevOps engineer
+- 👋 Hi, I’m David Santos aka @humanless2u
+- 👀 I’m interested in DevOps/Java Backend Development
+- 🌱 I’m currently study DevOps Tools and Java Language
 - 📫 Reach me on email: humanless2u@protomail.com
