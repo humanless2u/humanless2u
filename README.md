@@ -1,4 +1,4 @@
 - 👋 Hi, I’m David Santos aka @humanless2u
-- 👀 I’m interested in DevOps/Java Backend Development
-- 🌱 I’m currently study DevOps Tools and Java Language
+- 👀 I’m interested in Javscript/Typescript with Node.JS Development
+- 🌱 I’m currently study DevOps Engginer on Ampli University
 - 📫 Reach me on email: humanless2u@protomail.com
